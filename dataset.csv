@@ -1,0 +1,70 @@
+message,label
+"Congratulations! You won a free prize",spam
+"Claim your free reward now",spam
+"Win cash today click here",spam
+"Get a free gift voucher now",spam
+"Urgent! You won a lottery",spam
+"Click here to claim your offer",spam
+"Hello how are you",ham
+"Are you coming to college today",ham
+"Please call me when you are free",ham
+"Meeting is scheduled for tomorrow",ham
+"Can you send me the notes",ham
+"I will reach home soon",ham
+"Thank you for your help",ham
+"Let's meet tomorrow morning",ham
+"Are you free after class today",ham
+"I won my college competition",ham
+"Please click the submit button",ham
+"I need to verify my college registration",ham
+"Your homework is complete",ham
+"I received a gift from my friend",ham
+"We will discuss the project tomorrow",ham
+"Can you help me with this question",ham
+"Please check the message I sent",ham
+"I am waiting for your reply",ham
+"The meeting has been cancelled",ham
+"Let me know when you reach home",ham
+"I have a new phone",ham
+"Your application has been submitted",ham
+"Please confirm your attendance",ham
+"Free time is available after lunch",ham
+"I won the match yesterday",ham
+"Click on the file to open it",ham
+"Your college ID is ready",ham
+"Please share your notes",ham
+"You have won a free cash reward",spam
+"Claim your prize before midnight",spam
+"Congratulations you are selected for a lucky draw",spam
+"Get instant cash by clicking this link",spam
+"Your free shopping coupon is waiting",spam
+"Claim your bonus reward immediately",spam
+"Win a brand new phone today",spam
+"Urgent click now to claim your prize",spam
+"Make money fast with this special offer",spam
+"Your account will expire verify it now",spam
+"Congratulations you have received a gift card",spam
+"Exclusive cash prize waiting for you",spam
+"Click here for a guaranteed reward",spam
+"Get free vouchers immediately",spam
+"Claim your lottery winnings now",spam
+"Act fast your reward is expiring",spam
+"Earn extra money through this offer",spam
+"Your lucky prize is waiting click here",spam
+"Free entry win exciting rewards",spam
+"Verify your account to receive your bonus",spam
+"I won first prize in my college competition",ham
+"My friend gave me a free gift on my birthday",ham
+"Are you free to attend the class tomorrow",ham
+"Click the submit button to upload your assignment",ham
+"I received a cash prize in a school event",ham
+"Please verify your college registration details",ham
+"I got a reward for completing the competition",ham
+"We have an urgent meeting at college",ham
+"Congratulations on passing your examination",ham
+"Your teacher has shared a new assignment",ham
+"Win the match tomorrow and make us proud",ham
+"Please check the link shared by our teacher",ham
+"Your scholarship application has been approved",ham
+"Your parcel is free of delivery charges",ham
+"Please confirm your admission details with college",ham
